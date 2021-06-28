@@ -1,0 +1,15 @@
+Penggunaan dan limitasi program
+
+Pengguna:
+1. Download file program di github
+2. Setelah download, buka Editor/IDE yang terinstal di laptop
+3. Open File program di Editor/IDE yang telah di download di github
+4. Run program dan masukkan input sesuai yang diminta
+
+Limitasi program:
+Untuk program tersebut menggunakan bahasa Python 3.8.0 
+Di dalam program terdapat beberapa fungsi, yaitu:
+1. Fungsi mengurutkan dari yang terkecil hingga terbesar
+2. Fungsi mencari median dari angka yang telah diinput
+3. Fungsi mencai mean dari angka yang telah diinput
+4. Serta, fungsi perkalian dari angka yang telah diinput
